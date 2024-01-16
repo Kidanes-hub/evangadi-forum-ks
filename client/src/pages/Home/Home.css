@@ -1,0 +1,21 @@
+.homp {
+  margin-top: 84px;
+}
+.hed {
+  padding-top: 45px;
+}
+
+.questionButton {
+  background-color: #516cf0 !important ;
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+}
+.question:hover {
+  background-color: #fe8402 !important;
+  border: #fe8402 !important;
+}
+.askQuestion {
+  margin-bottom: 20px;
+}
